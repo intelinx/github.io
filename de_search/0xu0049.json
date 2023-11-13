@@ -1,0 +1,20 @@
+[
+	{ "s": "IDENTIFICAR", "p": [22] },
+	{ "s": "ILIMITADAS", "p": [20] },
+	{ "s": "IMAGINAR", "p": [20] },
+	{ "s": "IMPACTO", "p": [20] },
+	{ "s": "IMPLEMENTACIÓN", "p": [22] },
+	{ "s": "IMPLICA", "p": [22] },
+	{ "s": "IMPORTANTE", "p": [22, 20, 21] },
+	{ "s": "IMPORTANTES", "p": [20] },
+	{ "s": "IMPOSIBLE", "p": [20] },
+	{ "s": "INCLUIR", "p": [22] },
+	{ "s": "INCLUSO", "p": [20] },
+	{ "s": "INCLUYE", "p": [22] },
+	{ "s": "INCONTABLES", "p": [20] },
+	{ "s": "INFORMACIÓN", "p": [22, 20] },
+	{ "s": "INICIAL", "p": [21] },
+	{ "s": "INTELIGENCIA", "p": [20] },
+	{ "s": "INTELINX", "p": [22] },
+	{ "s": "INTENTAN", "p": [20] }
+]

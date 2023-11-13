@@ -1,0 +1,17 @@
+[
+	{ "s": "MAESTROS", "p": [21] },
+	{ "s": "MAGISTERIO", "p": [21] },
+	{ "s": "MANERA", "p": [22] },
+	{ "s": "MANTENIENDO", "p": [20] },
+	{ "s": "MATEMÁTICAS", "p": [22] },
+	{ "s": "MATERIA", "p": [20] },
+	{ "s": "MATERIALES", "p": [22] },
+	{ "s": "MAYOR", "p": [22] },
+	{ "s": "MEJORA", "p": [22] },
+	{ "s": "METODOLÓGICA", "p": [21] },
+	{ "s": "MISMO", "p": [20] },
+	{ "s": "MOMENTOS", "p": [20] },
+	{ "s": "MUNDO", "p": [20] },
+	{ "s": "MÁS", "p": [20, 21] },
+	{ "s": "MÉTODOS", "p": [21] }
+]

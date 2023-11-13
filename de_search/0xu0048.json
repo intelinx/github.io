@@ -1,0 +1,12 @@
+[
+	{ "s": "HABER", "p": [20] },
+	{ "s": "HABILIDADES", "p": [22] },
+	{ "s": "HACER", "p": [20] },
+	{ "s": "HAN", "p": [22] },
+	{ "s": "HEMOS", "p": [20] },
+	{ "s": "HERRAMIENTAS", "p": [22] },
+	{ "s": "HISTORIA", "p": [20] },
+	{ "s": "HOY", "p": [20] },
+	{ "s": "HUMANIDAD", "p": [20] },
+	{ "s": "HUMANO", "p": [20, 1] }
+]
